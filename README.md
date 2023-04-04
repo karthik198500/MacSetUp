@@ -6,14 +6,14 @@ Adjust display sizes
 Move dock bar to the side
 Remove un necessary apps in the side bar
 Invert mouse movement
-Adjust tab to use for buttons - use keyboard navigation to move control between buttons
+- Adjust tab to use for buttons - use "keyboard navigation" to move control between buttons
 
 Install chrome
 
 System preferences changes
-Keyboard - use F1 and F2 as standard function keys
-Mouse -change direction.
-Change default browser to chrome
+- Keyboard - use F1 and F2 as standard function keys
+- Mouse -change direction.
+- Change default browser to chrome
 
 Always display tabs as details
 
