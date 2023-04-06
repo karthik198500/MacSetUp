@@ -15,6 +15,14 @@ System preferences changes
 - Mouse -change direction.
 - Change default browser to chrome
 
+- Change the shortcut for the iCloud Drive by adding some other shortcut to that
+then add shortcuts
+for 
+cmd shift v - open with vs code
+cmd shift i - open a tab in Iterm2
+check how to add a shortcut in the automator to add menu called "Open in VSCode"
+https://apple.stackexchange.com/questions/399933/unable-to-remove-default-shortcut-for-icloud-drive-from-macos-catalina
+
 Always display tabs as details
 
 
